@@ -1,0 +1,2 @@
+This is an internal automation tool used to perform regression testing on Controllers, SRAN, SRAT.
+A KPI tracking tool has been integrated as well.
